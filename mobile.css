@@ -1,0 +1,46 @@
+#title img {
+  width: 200px;
+  padding: 0.5rem;
+}
+#undsen {
+  top: 0rem;
+  height: 100vh;
+}
+.play {
+  top: 0.2rem;
+}
+.img {
+  top: 0.4rem;
+}
+.g {
+  font-size: 0.9rem;
+}
+.com {
+  top: 0.5rem;
+}
+.ehlel_img {
+  top: 2rem;
+}
+.com_img {
+  top: 2rem;
+}
+.start-img {
+  width: 100px;
+  margin-bottom: 0.2rem;
+}
+.show {
+  top: 6rem;
+  left: 10rem;
+}
+.show-img {
+  width: 160px;
+}
+.f {
+  left: 17rem;
+}
+.lose {
+  left: 15rem;
+}
+.s {
+  top: 0.2rem;
+}
