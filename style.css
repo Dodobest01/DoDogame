@@ -126,7 +126,7 @@ body {
   width: 200px;
 }
 .f {
-  color: rgb(253, 36, 36);
+  color: rgb(31, 31, 155);
   position: absolute;
   top: 2rem;
   left: 22rem;
@@ -159,8 +159,8 @@ footer div {
   font-size: 0.8rem;
 }
 .winner {
-  color: #333;
+  color: green;
 }
 .lose {
-  color: blueviolet;
+  color: rgb(253, 36, 36);
 }
